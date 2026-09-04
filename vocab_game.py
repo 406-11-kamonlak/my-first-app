@@ -132,4 +132,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2, ans3, ans4)
 
 st.divider()
-st.write("นางสาวพิชชาภา ภิรมย์วงษ์ เลขที่ 36 ม.4/6")
+st.write("นางสาวกมลลักษณ์ แซ่ตวน เลขที่ 11 ม.4/6")
